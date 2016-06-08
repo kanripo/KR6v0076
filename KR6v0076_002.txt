@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:35.375544
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 淨度三昧經
 #+PROPERTY: CBETA_ID W07n0063
 #+PROPERTY: ID KR6v0076
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6v0076_W_002-0262a> 
 #+PROPERTY: JUAN 2
 
-卷第二¶
+** 卷第二¶
 
  淨度三昧經卷第二¶
 ¶
